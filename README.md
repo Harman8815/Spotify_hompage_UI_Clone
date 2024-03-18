@@ -19,7 +19,6 @@ This GitHub repository contains the source code for a Spotify UI clone implement
 
 ## ⚙️ Setup Instructions
 
-**Prerequisites:**
    - Simply open and run the `index.html` file. ⚙️
 
 
